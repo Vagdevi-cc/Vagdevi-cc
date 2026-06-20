@@ -1,9 +1,10 @@
 # Hi, I'm Vagdevi Chelluri 👋
 
 ## Business Analytics | Excel | SQL | Power BI
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vagdevichelluri54@gmail.com)
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)              [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vagdevichelluri54@gmail.com)   [![Resume](https://img.shields.io/badge/Resume-0066CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RAW_PDF_LINK)
 ## 👩‍💼 About Me
 
 I am currently pursuing an MSc Business Management at Cardiff University.
@@ -40,5 +41,4 @@ Business and HR case study analysing Uber’s leadership, culture and employee m
 Strategic sustainability analysis using business and environmental management frameworks.
 
 ### 📫 Connect with me
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 - Email: vagdevichelluri54@gmail.com
