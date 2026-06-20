@@ -1,10 +1,14 @@
 # Hi, I'm Vagdevi Chelluri 👋
 
 ## Business Analytics | Excel | SQL | Power BI
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+## 👩‍💼 About Me
 
-I am currently pursuing MSc Business Management at Cardiff University.
+I am currently pursuing an MSc Business Management at Cardiff University.
 
-I enjoy turning raw data into meaningful business insights using Excel, SQL and Power BI. My projects focus on dashboards, business analysis, market research and data visualization.
+I enjoy solving business problems using data analysis, Power BI dashboards, Excel, SQL, and market research.
+
+I'm actively building projects in Business Analytics and seeking Business Analyst and Data Analyst internship opportunities.
 
 ### 🔍 Currently interested in
 - Business Analysis
