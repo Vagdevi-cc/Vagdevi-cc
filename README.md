@@ -34,5 +34,5 @@ Business and HR case study analysing Uber’s leadership, culture and employee m
 Strategic sustainability analysis using business and environmental management frameworks.
 
 ### 📫 Connect with me
-- LinkedIn: paste your LinkedIn link here
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 - Email: vagdevichelluri54@gmail.com
