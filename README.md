@@ -2,6 +2,8 @@
 
 ## Business Analytics | Excel | SQL | Power BI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vagdevichelluri54@gmail.com)
 ## 👩‍💼 About Me
 
 I am currently pursuing an MSc Business Management at Cardiff University.
